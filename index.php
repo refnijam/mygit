@@ -9,7 +9,7 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1>-----------Staging---------</h1>
+<h1>-----------Master---------</h1>
 
 <h1>-----------Demo Line--------</h1>
 
