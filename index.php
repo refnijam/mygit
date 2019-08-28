@@ -9,7 +9,6 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1> ---New Deployment test change------- <h1>
 
 
 <p>
