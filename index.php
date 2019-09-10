@@ -9,6 +9,9 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
+
+<h1> Master branch <h1>
+<h2> Welcome <h2>
 <h1> Master branch <h1>
 <h2> Welcome <h2>
 =======
