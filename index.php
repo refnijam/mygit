@@ -10,12 +10,9 @@
 ?>
 <!-- START PAGE CONTENT -->
 <<<<<<< HEAD
-<<<<<<< HEAD
 <h1> Master branch <h1>
 <h2> Welcome <h2>
 =======
-=======
->>>>>>> parent of e33694a... added master
 
 >>>>>>> parent of e33694a... added master
 
