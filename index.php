@@ -11,7 +11,6 @@
 <!-- START PAGE CONTENT -->
 
 
-<h1> WELCOME TO DCC </h1>
 
 
 
