@@ -11,11 +11,7 @@
 <!-- START PAGE CONTENT -->
 
 
-<h1> Welcome </h1>
-
-
-
-
+<h1> Welcome ALL </h1>
 
 
 <p>
