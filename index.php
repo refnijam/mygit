@@ -11,7 +11,7 @@
 <!-- START PAGE CONTENT -->
 
 
-<h1> Welcome </h1>
+<h1> DevOps Cloud Camp Welcome note </h1>
 
 
 <p>
