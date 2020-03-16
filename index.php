@@ -11,7 +11,7 @@
 <!-- START PAGE CONTENT -->
 
 
-<h1> We are here to help</h1>
+<h1> Welcome to Devops Cloud Camp CLASS</h1>
 
 
 <p>
