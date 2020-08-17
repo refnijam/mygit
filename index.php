@@ -12,6 +12,7 @@
 
 
 <h1>DevOps Cloud Camp</h1>
+<h1>Welcome</h1>
 
 
 <p>
