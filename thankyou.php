@@ -8,7 +8,8 @@
 
 		include_once('assets/includes/header.php');
 ?>
-<!-- START PAGE CONTENT -->
+<h1> welcome <h1><
+!-- START PAGE CONTENT -->
 	<h1 class="mobile_show">Thank You</h1>
 	<p>Your request has been sent and an admissions advisor from our school will be contacting you soon. We look forward to speaking with you!</p>
 
