@@ -10,7 +10,7 @@
 ?>
 <!-- START PAGE CONTENT -->
 
-
+<h1> Master Page </h1>
 <h1>DevOps Cloud Camp</h1>
 
 <p>
