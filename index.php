@@ -9,7 +9,7 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1>WELCOME TO DCC Fatel</h1>
+<h1>WELCOME</h1>
 
 
 <p>
