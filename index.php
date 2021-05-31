@@ -9,7 +9,7 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1>Welcome to CISLIN</h1>
+<h1>Welcome to DevOps Cloud camp</h1>
 
 
 <p>
