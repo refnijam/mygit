@@ -9,7 +9,7 @@
 		include_once('assets/includes/header.php');
 ?>
 <!-- START PAGE CONTENT -->
-<h1>Welcome to DevOps Class</h1>
+<h1>Welcome to DevOps Cloud Camp</h1>
 
 
 <p>
