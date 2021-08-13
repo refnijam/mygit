@@ -15,7 +15,7 @@ You’ll find EWU in Chicago’s South Loop neighborhood, easily accessible by b
 <br/><br/>
 EWU is one of the most cost-effective education institutions in the regions – coming in 5th for the lowest average graduate student debt in a survey of more than 1000 public and private colleges by the New York Times
 </p>
-<h1>  Thankyou All </h1>
+
 
 
 
